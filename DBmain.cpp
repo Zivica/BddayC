@@ -1,8 +1,5 @@
 #include "DB.h"
 
-
-
-
 /*
     Ovo je glavna funkcija naseg programa odakle isti i krece.
 */
